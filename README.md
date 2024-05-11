@@ -1,5 +1,5 @@
 # <a id=TitleHead> Итоговая контрольная работа по основному блоку </a>
-### <b>Выполнил: Морев Анатолий</b>
+### <b>Выполнил: Суворов Никита</b>
 ## <b>Оглавление:
 ### 1. [Условия задачи](#Title1)
 ### 2. [Выполнение и комментарии](#Title2)
@@ -24,9 +24,9 @@
 ## <a id=Title2> Выполнение и комментарии </a>
 
 1. Ссылка на репозиторий на [Github] https://github.com/nikita11996/final-examination.git
-2. Блок- схема метода отбора строк <= 3 и формирования нового массива строк.![Блок-схема>](/block_diagramm.png) 
-3. Файл [README.md](https://github.com/PendolFF/TWork/blob/main/README.md) написан используя некоторые возможности языка Markdown.
-4. [Код программы на C#](https://github.com/PendolFF/TWork/blob/main/Program.cs) принимает на входе массивы строк разделенные запятой. На выходе выдает массив строк <= 3 символов каждый из которых заключен в кавычки.  
+2. Блок- схема метода отбора строк и формирования нового массива строк.[Блок-схема>]https://github.com/nikita11996/final-examination/blob/master/%D0%B1%D0%BB%D0%BE%D0%BA-%D1%81%D1%85%D0%B5%D0%BC%D0%B0.png
+3. Файл [README.md]https://github.com/nikita11996/final-examination/blob/master/README.md написан используя некоторые возможности языка Markdown.
+4. [Код программы на C#]https://github.com/nikita11996/final-examination/blob/master/Program.cs принимает на входе массивы строк разделенные запятой. На выходе выдает массив строк <= 3 символов каждый из которых заключен в кавычки.  
 
     Пример ввода и вывода:
    ```cmd
@@ -37,6 +37,6 @@
    ```
 
 
-5. В проекте присутствует [13 коммитов](https://github.com/PendolFF/TWork/commits/main/) 
+5. В проекте присутствует [4 коммита]https://github.com/nikita11996/final-examination
 
 [К началу](#TitleHead)
